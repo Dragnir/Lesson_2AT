@@ -13,3 +13,5 @@
 Пожелай мне удачи, пожелай мне удачи!
 
 Task 2.2 First commit
+
+Task 2.2 Second commit
